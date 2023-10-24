@@ -1,0 +1,1 @@
+a:7:{s:7:"emlAuth";s:16:"gpetri@gplweb.pl";s:8:"authCode";s:6:"734140";s:8:"authDate";s:10:"2023-10-24";s:8:"authHour";s:8:"02:15:51";s:6:"addrIp";s:9:"127.0.0.1";s:5:"reqOs";s:5:"Linux";s:6:"reqBrw";s:2:"FF";}
